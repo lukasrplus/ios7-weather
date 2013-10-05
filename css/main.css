@@ -71,8 +71,20 @@ h4 {
   height: 16px;
 }
 
-.week.group {
+.day {
+  text-align: right;
+  padding-bottom: 20px;
+  background: url(../img/icon_sunny.png) 270 0 no-repeat;
+  height: auto;
+}
+
+.day h4 {
+  margin: 0px;
+  float: left;
 
 }
+
+
+
 
 
