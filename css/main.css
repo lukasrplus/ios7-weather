@@ -17,6 +17,7 @@ body {
 .group {
   padding: 15px;
   border-bottom: 1px solid #b1dafa;
+  text-align: right;
 }
 
 /* Now */
@@ -33,3 +34,19 @@ body {
 .now h2 {
   font-size: 72px;
 }
+
+.group h3 {
+  float: left;
+}
+
+.hour {
+  text-align: left;
+  float: left;
+  text-align: center;
+  margin-left: 14px;
+  margin-right: 14px;
+}
+
+
+
+
