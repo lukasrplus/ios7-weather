@@ -67,6 +67,11 @@ h4 {
   margin-bottom: 40px;
 }
 
+.week.group {
+  padding-top: 36px;
+  margin-top: 10px;
+}
+
 .hours.group {
   height: 16px;
 }
@@ -74,7 +79,8 @@ h4 {
 .day {
   text-align: right;
   padding-bottom: 20px;
-  background: url(../img/icon_sunny.png) 270 0 no-repeat;
+  padding-right: 35px;
+  background: url(../img/icon_sunny.png) 265 0 no-repeat;
   height: auto;
 }
 
@@ -84,7 +90,12 @@ h4 {
 
 }
 
+.day.rain {
+  background: url(../img/icon_rain.png) 265 0 no-repeat;
+}
 
-
+.day.cloudy {
+  background: url(../img/icon_cloudy.png) 265 0 no-repeat;
+}
 
 
